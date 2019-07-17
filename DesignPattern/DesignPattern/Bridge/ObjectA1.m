@@ -1,4 +1,4 @@
-//
+ //
 //  ObjectA1.m
 //  DesignPattern
 //
